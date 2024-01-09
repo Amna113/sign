@@ -10,9 +10,15 @@
     justify-content: center;
     align-items: center;
 }
+@media screen and (max-width: 768px) {
+    .img1{
+        height: 50vh;
+    }
+}
 .img1{
     /* width: 50; */
     height: 75vh;
+  
 }
 .heading h1{
     font-size: 4rem;
