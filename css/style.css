@@ -10,9 +10,9 @@
     justify-content: center;
     align-items: center;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 760px) {
     .img1{
-        height: 50vh;
+        height: 40vh;
     }
 }
 .img1{
