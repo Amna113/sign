@@ -12,7 +12,12 @@
 }
 @media screen and (max-width: 760px) {
     .img1{
-        height: 40vh;
+        max-height: 50vh;
+    }
+}
+@media screen (min-width: 760px) and (max-width: 1080px) {
+    .img1{
+        max-height: 60vh;
     }
 }
 .img1{
