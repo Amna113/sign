@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'font';
+    src: url(../font/bebas-neue/BebasNeue-Regular.ttf);
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'font';
+    justify-content: center;
+    align-items: center;
+}
+.img1{
+    /* width: 50; */
+    height: 75vh;
+}
+.heading h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.heading h2{
+    color: rgb(128, 126, 126);
+    font-size: 2rem;
+}
+button{
+    height: 8vh;
+    border-radius: 30px;
+}
+.forgot{
+    font-size: 1rem;
+}
+.conect-f-other {
+    color: grey;
+    font-size: 20px;
+}

@@ -1,0 +1,20 @@
+
+.heading h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.heading2{
+    color: rgb(59, 74, 235);
+    text-shadow: 8px 9px 6px rgba(111,139,244,0.72);
+}
+.heading2 h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+.heading2 h3{
+    color: grey;
+    font-size: 20px;
+}
+.bx{
+    color: black;
+}
